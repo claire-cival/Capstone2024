@@ -73,8 +73,9 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-Content/Asset/DeepElderCaves/*
-Content/__ExternalActors__/*
+Content/Asset/3D/*
 Content/__ExternalObjects__/*
+Content/__ExternalActors__/*
 Content/LevelPrototyping/*
+Content/HandPaintedEnvironment/*
 Config/*
